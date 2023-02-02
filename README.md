@@ -1,6 +1,6 @@
 # MY-PROJECT
           
-          karpov_courses
+#           karpov_courses
           
           
 # final_project (анализ A/B-теста, SQL, автообновление данных A/B-теста)
